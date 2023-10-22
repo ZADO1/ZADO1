@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/148088810/277110372-2bf6dd84-803c-466d-b074-941e2fdb86b1.gif" alt="J4o" width="1000" height= "200" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Ziad Ghattas</h1>
 <h3 align="center">I have graduated in computer science</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fhd%2F3c00f6105775659.5f84899401909.gif&tbnid=xAikkwJ7ANxjPM&vet=12ahUKEwi30IyTz4mCAxXHmicCHc8cDUQQMyg8egUIARCqAg..i&imgrefurl=https%3A%2F%2Fwww.behance.net%2Fgallery%2F105775659%2Fcreative-coding-explorations&docid=YUqA2nIrcwHhuM&w=900&h=900&q=animated%20coding%20gif%20images&ved=2ahUKEwi30IyTz4mCAxXHmicCHc8cDUQQMyg8egUIARCqAg "
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zado1&label=Profile%20views&color=0e75b6&style=flat" alt="zado1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zado1" alt="zado1" /></a> </p>
+
 
 - 📫 How to reach me **ziad.ghattass33@gmail.com**
 
